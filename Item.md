@@ -2,6 +2,7 @@
 + https://zapper.fi/quests 签到 
 + https://rare.claims/register 每日签到聊胜于无
 + https://faucet.1hive.org/#/ 每日签到聊胜于无
++ https://faucet.1hive.org/#/ 每日签到聊胜于无
 
 ## 链游：
 + https://raritymmo.com/ （FTM游戏，开发中，看好，开发者推特：@AndreCronjeTech）
@@ -15,6 +16,9 @@
 + https://coinmarketcap.com/zh/airdrop/ （CMC空投专区）
 + https://airdropalert.com/ （AA空投）
 
+## 关注链条
++ https://twitter.com/ShidenNetwork （Shiden链，刚起步，属于兼容链条，可以上去刷刷交互）
++ https://twitter.com/moonbeamnetwork （月河链，月光链测试链，可在库币提币） 
 
 ## cx项目（傻逼项目）
 + https://vgc.asia/    矿区编号：408491295680
