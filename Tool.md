@@ -1,4 +1,4 @@
-#币圈撸毛指南
+#工具集合
 
 ** **
 > ## 社交软件
@@ -40,6 +40,9 @@
 + [币安](https://accounts.binancezh.top/zh-CN/register?ref=160936150)：宇宙第一大所，特异功能：**插针**
 + [Okex](https://www.ouyi.fit/join/8424265)：币圈“**大户**”最多的交易所
 + [FTX](https://ftx.com/#a=43809481)：提现手续费低，当跨链桥用
++ [抹茶](https://www.mxc.la/)：种类繁杂
++ [芝麻开门](https://www.gate.io/m#/home)：种类繁杂
+
 
 ------
 ## 本地钱包
@@ -60,7 +63,11 @@
 ## 工具网站
 >[ERC20浏览器](https://etherscan.io/)
 >
->[TRC20浏览器](https://tronscan.io/#/)
+>[TRC20浏览器](https://tronscan.io/)
+>
+>[polka浏览器](https://polkascan.io/)
+>
+>[Sol浏览器](https://explorer.solana.com/)
 >
 >[Earnifi](https://earni.fi/)
 >
@@ -99,3 +106,104 @@
  >>[imToken](https://token.im/)
  >>
  >>[TokenPocket](https://www.tokenpocket.pro/)
+
+
+
+未整理：
+各类测试网领水
+
+一、Ropsten测试网
+
+1：https://faucet.dimensions.network/
+
+2:https://faucet.ropsten.be/
+
+
+二、Kovan测试网
+
+1：https://gitter.im/kovan-testnet/faucet
+
+2：https://faucet.kovan.network/
+
+https://linkfaucet.protofire.io/kovan并填写您的ETH钱包地址，点击“发送”在Kovan网络上选择ETH代币。
+3:https://enjin.io/software/kovan-faucet
+
+4、https://app.pods.finance/faucet
+领水https://faucet.kovan.network/
+
+ 
+https://faucet.routerprotocol.com/
+三、Rinkeby测试网
+
+1：https://faucet.rinkeby.io/
+
+
+四：Goerli测试网
+
+1：https://faucet.goerli.mudit.blog/
+
+
+五：xDai
+
+1：https://xdai-faucet.top/
+
+2：https://bridge.xdaichain.com/
+
+3:https://blockscout.com/xdai/mainnet/faucet
+
+ 
+
+六：kovan3测试网
+
+1：https://faucet.arbitrum.io/
+
+
+七：币安BSC测试网
+
+1：https://testnet.binance.org/faucet-smart
+
+
+八：欧易OKExChain测试网
+
+1：https://gitter.im/kovan-testnet/faucet
+
+2：https://www.okexcn.com/drawdex
+
+3：https://docs.kswap.finance/help/gitter
+
+
+九：火币Heco测试网
+
+1：https://scan-testnet.hecochain.com/faucet
+
+添加matic测试网
+在领水：https://faucet.matic.network/
+
+马蹄主网的水：https://wallet.matic.network/login?next=%2F
+
+打开这个网址，用小狐狸钱包登陆进去
+
+等待1分钟-3分钟
+
+自动领水
+
+xdai，这个交易所可以提https://ascendex.com/
+
+如果不用中心话交易所的，下面工具备用
+
+xdai 工具汇总：
+
+ERC20 token 在主网与 xdai 网互转：
+https://xdai-omnibridge.web.app/bridge
+
+DAI 在主网与 xdai 网互转：
+https://dai-bridge.poa.network/
+
+xdai 与 wxdai 互转：
+https://wrapeth.com/
+
+xdai 的区块链浏览器：
+https://blockscout.com/xdai/mainnet/
+
+xdai 的 uniswap：
+https://app.honeyswap.org/#/swap
