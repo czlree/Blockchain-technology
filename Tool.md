@@ -17,42 +17,35 @@
 
 
 ## 有望空投项目：
-+ https://www.idena.io/zh  （idena挖矿，一个月13刀左右，可派单多开）
-+ https://rabbithole.gg/    （兔子洞，不定期有作业，后续有望空投）
-
-+ 
 +  [AA空投](https://airdropalert.com/): 土狗之家1
 +  [CMC空投专区](https://coinmarketcap.com/zh/airdrop/): 土狗之家2
 +  [兔子洞](https://rabbithole.gg/): 不定期有作业，后续有望空投
 +  [镜子DAO](https://mirror.xyz/race): 投票治理，有望空投
-+  [9C](http://onboarding.nine-chronicles.com/?ref=88a26b2a7d6c425c913047d9f776f90d): （eth二层）已发币，有毛，国内登录体验较差
-+  [mir4](https://www.mir4global.com/): （Klayth链）多开能赚
-+  [Defina](https://defina.finance/): （BSC链）未开服，热度高，币安扶持
 
 
-## NFT市场（更新换代过快暂不参与）
+## NFT市场
 各链条交易所地址：
-> #### ETH和马蹄:
+> #### Ethereum & Polyon:
 > https://opensea.io/ 
-> #### XDAI上的poap交易
+> #### XDAI：
 > + 1.https://epor.io/
 > + 2.https://xdai.unique.one/ 
-> #### AVAX:
+> #### Avalanche:
 > https://avaware.network/
-> #### ICP交易所
+> #### ICP：
 > https://entrepot.app/
-> #### 波卡KSM：
+> #### Kusama：
 > https://unqnft.io/
-> #### TEZ链：
+> #### Tezos：
 > https://objkt.com/
-> #### SOL链:
+> #### Soland:
 > + 1.https://solanart.io/
 > + 2.https://digitaleyes.market/
 > + 3.https://solsea.io/
 > + 4.https://magiceden.io/
 > + 5.https://market.solanamonkey.xn--business-e80mn06hsbgh1nv7lky8brnk5n8bmry9a0a/
-> #### BSC链：
+> #### BSC：
 > + 1.https://treasureland.market/
 > + 2.https://nftb.io/ 
-> #### FTM链：
+> #### Fantom：
 > https://artion.io/
