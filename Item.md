@@ -21,9 +21,7 @@
 + https://twitter.com/moonbeamnetwork （月河链，月光链测试链，可在库币提币） 
 
 ## cx项目（傻逼项目）
-+ https://vgc.asia/    矿区编号：408491295680
-+ https://minepi.com/yewlne3 
-+ https://www.botheredotters.com/?ref=HM75UNGtKH3aKbC4ENnVcXQoU4x3NfRVhdgX4asvbqKt  （点评：零撸  免费拿sol，用幻影钱包，一小时一次，聊胜于无）
++ 暂无
 
 ## 未知
 + https://mirror.xyz/race 
